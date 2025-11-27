@@ -1,3 +1,3 @@
-# MindScripts_Demo
+c# MindScripts_Demo
 we are in MindScript <br>
-Owner -XYX
+Owner -ABC
